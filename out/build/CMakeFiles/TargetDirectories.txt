@@ -1,8 +1,0 @@
-D:/C++/computer/out/build/CMakeFiles/computer.dir
-D:/C++/computer/out/build/CMakeFiles/edit_cache.dir
-D:/C++/computer/out/build/CMakeFiles/rebuild_cache.dir
-D:/C++/computer/out/build/CMakeFiles/list_install_components.dir
-D:/C++/computer/out/build/CMakeFiles/install.dir
-D:/C++/computer/out/build/CMakeFiles/install/local.dir
-D:/C++/computer/out/build/CMakeFiles/computer_autogen_timestamp_deps.dir
-D:/C++/computer/out/build/CMakeFiles/computer_autogen.dir
