@@ -1,0 +1,6 @@
+<RCC>
+    <qresource lang="C++" prefix="/">
+        <file>1.bmp</file>
+        <file>pollinate1.wav</file>
+    </qresource>
+</RCC>

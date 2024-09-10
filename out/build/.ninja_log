@@ -1,0 +1,12 @@
+# ninja log v5
+16	301	7476555805415951	computer_autogen/timestamp	9bdc6033349726c1
+287	446	7476533783459630	D:/C++/computer/out/build/computer_autogen/EWIEGA46WW/qrc_style.cpp	8865b7058ab4022b
+507	2714	7476551262188777	CMakeFiles/computer.dir/computer_autogen/mocs_compilation.cpp.obj	3870b38c621fef5a
+16	301	7476555805415951	computer_autogen/mocs_compilation.cpp	9bdc6033349726c1
+287	446	7476533783459630	computer_autogen/EWIEGA46WW/qrc_style.cpp	8865b7058ab4022b
+16	301	7476555805415951	D:/C++/computer/out/build/computer_autogen/timestamp	9bdc6033349726c1
+16	301	7476555805415951	D:/C++/computer/out/build/computer_autogen/mocs_compilation.cpp	9bdc6033349726c1
+487	1172	7476543252247976	CMakeFiles/computer.dir/computer_autogen/EWIEGA46WW/qrc_style.cpp.obj	5a29ed102ca7901e
+513	2613	7476551261175424	CMakeFiles/computer.dir/main.cpp.obj	1293a580f355517
+313	2400	7476555884206303	CMakeFiles/computer.dir/widget.cpp.obj	3e1804a1243d845f
+2401	2672	7476555886469226	computer.exe	9c33b7424a877293

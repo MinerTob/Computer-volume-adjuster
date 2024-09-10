@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-bac9f19efa932b0ff576.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "computer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "computer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-computer-Debug-589e67711af0e661ae0f.json",
+					"name" : "computer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "computer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-computer_autogen-Debug-2961c8460194ba10d44f.json",
+					"name" : "computer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "computer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-computer_autogen_timestamp_deps-Debug-5035aafc5fed5a543ee3.json",
+					"name" : "computer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/C++/computer/out/build",
+		"source" : "D:/C++/computer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

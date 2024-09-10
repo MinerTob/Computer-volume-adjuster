@@ -1,0 +1,23 @@
+# ninja log v6
+16	273	7476500147208191	computer_autogen/timestamp	53997c2fab29ab69
+707	2372	7476498915327874	CMakeFiles/computer.dir/computer_autogen/mocs_compilation.cpp.obj	9677ff8c62ba5257
+16	273	7476500147208191	computer_autogen/mocs_compilation.cpp	53997c2fab29ab69
+16	273	7476500147208191	D:/C++/computer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/computer_autogen/timestamp	53997c2fab29ab69
+2270	2500	7476500169758683	computer.exe	9ab5417fa4df9775
+16	273	7476500147208191	D:/C++/computer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/computer_autogen/mocs_compilation.cpp	53997c2fab29ab69
+717	2477	7476498915427805	CMakeFiles/computer.dir/main.cpp.obj	a26aded392307da4
+388	2270	7476500150939499	CMakeFiles/computer.dir/widget.cpp.obj	2789ec07203b83f6
+275	388	7476500150819570	computer_autogen/EWIEGA46WW/qrc_style.cpp	78a7fb9f780c94fe
+275	388	7476500150819570	D:/C++/computer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/computer_autogen/EWIEGA46WW/qrc_style.cpp	78a7fb9f780c94fe
+400	719	7476500151052710	CMakeFiles/computer.dir/computer_autogen/EWIEGA46WW/qrc_style.cpp.obj	cdf4190657ca280
+15	1393	7476557044631219	computer_autogen/timestamp	53997c2fab29ab69
+15	1393	7476557044631219	computer_autogen/mocs_compilation.cpp	53997c2fab29ab69
+15	1393	7476557044631219	D:/C++/computer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/computer_autogen/timestamp	53997c2fab29ab69
+15	1393	7476557044631219	D:/C++/computer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/computer_autogen/mocs_compilation.cpp	53997c2fab29ab69
+1397	1556	7476557047228108	computer_autogen/EWIEGA46WW/qrc_style.cpp	78a7fb9f780c94fe
+1397	1556	7476557047228108	D:/C++/computer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/computer_autogen/EWIEGA46WW/qrc_style.cpp	78a7fb9f780c94fe
+1590	3486	7476557047703453	CMakeFiles/computer.dir/computer_autogen/EWIEGA46WW/qrc_style.cpp.obj	b9636ac30ca95789
+1556	5780	7476557047368248	CMakeFiles/computer.dir/computer_autogen/mocs_compilation.cpp.obj	91b439e05bab977d
+1568	5855	7476557047473414	CMakeFiles/computer.dir/main.cpp.obj	bbcdc0dc9bc429eb
+1578	6029	7476557047583428	CMakeFiles/computer.dir/widget.cpp.obj	525557cd101f90d8
+6029	6310	7476557092086274	computer.exe	ef9a8a9e1f308e84
